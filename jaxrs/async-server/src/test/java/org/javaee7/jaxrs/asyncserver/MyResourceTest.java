@@ -20,7 +20,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 
 /**
- * @author Arun Gupta
+ * @author Arun Gupta  THOMAS FOK
  */
 @RunWith(Arquillian.class)
 public class MyResourceTest {
